@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aniket. Developer. Dreamer....<br>⌨️ I turn coffee into code.<br>📬 Let’s build something cool..<br>☕ runs on caffeine & curiosity.<br>✺ Clean code, deep focus, soft music 
+Aniket. Developer. Dreamer....<br>⌨️ I turn coffee into code.<br>📬  runs on caffeine & curiosity.<br>✺ Clean code, deep focus, soft music Let’s build something cool..<br>☕
 
 
 ## 🌐 Socials:
